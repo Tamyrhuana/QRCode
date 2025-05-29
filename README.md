@@ -8,4 +8,4 @@ O gerador de QR Code utiliza uma API para criar códigos QR, oferecendo feedback
 
 <img src="./img/prit.png">
 
-<img src="./img/print1.png">
+<img src="./img/print 1.png">
